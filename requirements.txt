@@ -1,3 +1,0 @@
-git add requirements.txt
-git commit -m "Fixed requirements.txt format"
-git push origin main
